@@ -28,7 +28,7 @@ The fourth part returns to the defensive perspective, describing the constructio
 The last portion focuses on the introduction and usage of applications. Included is a list of recommendations for applications and resources and some contents that are currently unclassified.
 
 #
-The above is the overall content summarization, but the order is not mandatory. The topic can be from anywhere and start from anywhere of interest. This compilation can be used both as a whole and as a handbook.
+The above is the overall content summarization, but the order is not mandatory. Reading can start from anywhere of interest . This compilation can be used both as a whole or as a handbook.
 
 As the author is also learning and is human, errors are inevitable. Errors will fixed and contents updated in a timely fashion. If there exists any mistakes, readers are welcomed to criticize and correct them through [Issue](https://github.com/LyleMi/Learn-Web-Hacking/issues/new) or [PR](https://github.com/LyleMi/Learn-Web-Hacking/pulls). Help is much appreciated.
 
