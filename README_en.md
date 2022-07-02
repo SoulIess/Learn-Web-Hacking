@@ -11,7 +11,7 @@
 
 # About
 ---
-Upon diving into the vast ocean of knowledge about cybersecurity, I realized that many topics and concepts often are scattered and unorganized. Learning becomes unnecessarily complex without a well-laid-out structure or guide. Thus after grasping the basics, the author attempted to gather ideas, record them and eventually lead to the creation of this note. The hope is that it can assist those planning to learn web hacking.
+Upon diving into the vast ocean of knowledge about cybersecurity, the author realized that many topics and concepts often are scattered and unorganized. Learning becomes unnecessarily complex without a well-laid-out structure or guide. Thus after grasping the basics, the author attempted to gather ideas, record them and eventually lead to the creation of this note. The hope is that it can assist those planning to learn web hacking.
 
 Before starting, the question of "what is web hacking?" needs to be answered. Web hacking consists of a series of content, including topics such as websites, web applications, web services, and numerous more. In other words, web hacking focuses on the security of applications and the interactive level. The necessary knowledge of web hacking includes network protocols, properties of networking applications, their security risks, and the usage of various applications. These categories can be complicated; therefore, try the following logic to disassemble and reorganize relevant contents for ease of understanding.
 
@@ -19,16 +19,16 @@ Before starting, the question of "what is web hacking?" needs to be answered. We
 
 To better understand why the web security field is the way it is now and what direction each study is headed, it is necessary to understand the history of the development and evolution of web applications and network attack and defence technologies. This is the first part of the notes, focusing on the development and expansion of web technologies and the basics of the security field.
 
-The second part of this note introduces some of the basics of computer networks. Considering that there are many branches of databases, web servers, and the rapid evolution of the field, only network protocols will be covered. The skipped part regarding network applications should be understood with the accompanying programming languages, web application frameworks, network services and operating system features.
+The second part of this note introduces some of the basics of computer networks. Considering that there are many branches of databases, web servers, and the rapid evolution of the field, only network protocols will be covered. The skipped parts regarding network applications should be understood with the accompany of programming languages, web application frameworks, network services and operating system features.
 
-With some foundation, the focus shifts to more detailed content on attack and defence, such as the study of vulnerability types, programming languages, characteristics of applications and their related security issues. The third portion briefly describes information gathering, commonly seen web vulnerabilities, languages, frameworks and techniques for intranet penetration testing. Meanwhile, cloud technology has become an essential part of the web world, whether using the public cloud to build light services or the private cloud. Technologies such as containers are becoming more and more critical.
+With some foundation, the focus shifts to more detailed content on attack and defence, such as the study of vulnerability types, programming languages, characteristics of applications and their related security issues. The third portion briefly describes information gathering, commonly seen web vulnerabilities, languages, frameworks and techniques for intranet penetration testing. Meanwhile, cloud technology has become an essential part of the web world, whether using the public cloud to build light services or the private cloud. Technologies such as containers are becoming more critical too.
 
 The fourth part returns to the defensive perspective, describing the construction of a security team, threat intelligence and risk control perspectives, and some description of more detailed technical content such as honeypots and traceability.
 
 The last portion focuses on the introduction and usage of applications. Included is a list of recommendations for applications and resources and some contents that are currently unclassified.
 
 #
-The above is the overall content summarization, but the order is not mandatory. Reading can start from anywhere of interest . This compilation can be used both as a whole or as a handbook.
+The above is the overall content summarization, but the order is not mandatory. Reading can start from anywhere of interest. This compilation can be followed perfectly or as a handbook.
 
 As the author is also learning and is human, errors are inevitable. Errors will fixed and contents updated in a timely fashion. If there exists any mistakes, readers are welcomed to criticize and correct them through [Issue](https://github.com/LyleMi/Learn-Web-Hacking/issues/new) or [PR](https://github.com/LyleMi/Learn-Web-Hacking/pulls). Help is much appreciated.
 
@@ -177,7 +177,7 @@ make html
 ### Contributions
 ---
 
-Questions and suggestions are welcomed through Issue or PR, much appreciated.
+Questions and suggestions are welcomed through Issue or PR.
 
 Thanks to all who [contributed](https://github.com/LyleMi/Learn-Web-Hacking/graphs/contributors).
 
